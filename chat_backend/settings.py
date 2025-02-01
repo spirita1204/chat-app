@@ -40,7 +40,9 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     ### added for chat app ###
-    'api',             # 自訂應用
+    'api',                      # 自訂應用
+    'rest_framework',           # RESTful API
+    'rest_framework_simplejwt'  # JWT 驗證
 ]
 
 MIDDLEWARE = [
