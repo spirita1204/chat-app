@@ -251,7 +251,7 @@
 
 ### **✅ 設計 API**
 
-| API | 方法 | 描述 |
+| API | 方法 | 描述 | 
 | --- | --- | --- |
 | `/api/auth/login` | `POST` | 用戶登入 |
 | `/api/auth/register` | `POST` | 用戶註冊 |
